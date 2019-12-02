@@ -1,5 +1,5 @@
 {
-  "name": "markdown-to-html",
+  "name": "xjke-markdown-to-html",
   "version": "1.0.0",
   "description": "markdown转html,带左边侧栏目录",
   "main": "jquery.min.js",
