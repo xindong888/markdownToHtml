@@ -1,0 +1,24 @@
+{
+  "name": "markdown-to-html",
+  "version": "1.0.0",
+  "description": "markdown转html,带左边侧栏目录",
+  "main": "jquery.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xindong888/markdownToHtml.git"
+  },
+  "keywords": [
+    "markdown",
+    "to",
+    "html"
+  ],
+  "author": "刘前进",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xindong888/markdownToHtml/issues"
+  },
+  "homepage": "https://github.com/xindong888/markdownToHtml#readme"
+}
