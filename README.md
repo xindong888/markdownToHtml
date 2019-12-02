@@ -18,3 +18,4 @@
 >4.设置层级,打开mdJs.js文件,修改var level = 6变量即可
 >
 ##三.效果
+![效果图](https://github.com/xindong888/markdownToHtml/blob/master/demo.png?raw=true)
